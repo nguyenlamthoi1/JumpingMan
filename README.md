@@ -1,4 +1,4 @@
-# JumpingKnight
+# JumpingMan
  [Complete]
 *Cagetory: Endless running, avoid obstacle, 
 * Fetures:
